@@ -1,0 +1,3 @@
+[submodule "submodules/MichaelStruck-SmartThings"]
+	path = submodules/MichaelStruck-SmartThings
+	url = git@github.com:MichaelStruck/SmartThings.git
