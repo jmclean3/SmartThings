@@ -1,0 +1,1 @@
+../../../submodules/MichaelStruck-SmartThings/Other-SmartApps/AlexaHelper/Alexa Helper-Scenario.groovy
